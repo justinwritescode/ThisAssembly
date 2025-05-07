@@ -211,8 +211,8 @@
 	weak
 [file "src/SponsorLink/SponsorLink/SponsorLink.csproj"]
 	url = https://github.com/devlooped/SponsorLink/blob/main/samples/dotnet/SponsorLink/SponsorLink.csproj
-	sha = d641245c71b6d9355129d8e66d752f71b10ce871
-	etag = 69899ef30a11b1eb6164c3067baea72ee9b284147cc4127d0ae5fc0f16b0fa22
+	sha = e8ec200934a3b3788c2e31d7022c717f5fd152fa
+	etag = 1a58baf82b1813f68610272aa6161a18a70d5c619154734039a0d48fce6d735a
 	weak
 [file "src/SponsorLink/SponsorLink/SponsorLinkAnalyzer.cs"]
 	url = https://github.com/devlooped/SponsorLink/blob/main/samples/dotnet/SponsorLink/SponsorLinkAnalyzer.cs
@@ -291,8 +291,8 @@
 	weak
 [file "src/SponsorLink/Tests/Tests.csproj"]
 	url = https://github.com/devlooped/SponsorLink/blob/main/samples/dotnet/Tests/Tests.csproj
-	sha = d641245c71b6d9355129d8e66d752f71b10ce871
-	etag = c5e4259082e3c2094f089dcaa6bc2429c241c414ac4bce644793fb8ed129eeeb
+	sha = e8ec200934a3b3788c2e31d7022c717f5fd152fa
+	etag = eb34fc9fe25b0169f069ff692379a19c59673727d8abb6f45816012661329df5
 	weak
 [file "src/SponsorLink/Tests/keys/kzu.key"]
 	url = https://github.com/devlooped/SponsorLink/blob/main/samples/dotnet/Tests/keys/kzu.key
@@ -341,13 +341,13 @@
 	weak
 [file "src/SponsorLink/SponsorLink.Analyzer.targets"]
 	url = https://github.com/devlooped/SponsorLink/blob/main/samples/dotnet/SponsorLink.Analyzer.targets
-	sha = d641245c71b6d9355129d8e66d752f71b10ce871
-	etag = f732b7eaadddbc858728ca1858a05897d69378e3850e5de589e25497c901efbb
+	sha = e8ec200934a3b3788c2e31d7022c717f5fd152fa
+	etag = 0c9a86982db302f74f56220ecf6842c8f7d1da1d35916d5c2d00372810056af5
 	weak
 [file "src/SponsorLink/SponsorLink.Analyzer.Tests.targets"]
 	url = https://github.com/devlooped/SponsorLink/blob/main/samples/dotnet/SponsorLink.Analyzer.Tests.targets
-	sha = 869f74bcf8103598591dd7550c77d36a2405ef87
-	etag = 9daeb728e943a8cdc6b5191aa6aa881ec31326c12d719b583fd76f5617f1f5a8
+	sha = 8ddf00042fa27cfce0f39a3e33e74488e2cc9bae
+	etag = 78cc938e28a2a5c3cbe1de009762ae370c49d9aa4866bf75ff8fe7a2322b9251
 	weak
 [file "src/SponsorLink/SponsorLink/Resources.es-AR.resx"]
 	url = https://github.com/devlooped/SponsorLink/blob/main/samples/dotnet/SponsorLink/Resources.es-AR.resx
